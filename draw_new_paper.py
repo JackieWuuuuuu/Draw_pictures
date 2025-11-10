@@ -2,7 +2,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 
-# 模型名称
+# 模型名称描述
 models = ['EfficientNet-B3', 'Vision Transformer', 'YOLOv5-cls', 'YOLOv8-cls', 'Proposed method']
 x = np.arange(len(models))
 
