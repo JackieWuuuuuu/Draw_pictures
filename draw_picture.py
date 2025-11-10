@@ -17,6 +17,8 @@ map_color = (235/255, 206/255, 192/255)
 x = np.arange(len(models))
 bar_width = 0.22
 
+print(123)
+
 fig, ax1 = plt.subplots(figsize=(15, 10))
 
 # Plot bars for Recall, F1-score, mAP on the left y-axis
